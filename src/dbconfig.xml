@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<db-type>mysql</db-type>
+	<db-dbname>dbname</db-dbname>
+	<db-username>username</db-username>
+	<db-password>password</db-password>
+	<db-host>127.0.0.1</db-host>
+	<db-port>13338</db-port>
+</config>
+
